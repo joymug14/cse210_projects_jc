@@ -4,15 +4,15 @@ public class PromptGenerator
 {
     public List<string> _prompts = new List<string>
     {
-        "How did i see the hsnd of the lord in my life today?",
-        "What was the strongest emotion i felt today?",
+        "How did I see the hand of the Lord in my life today?",
+        "What was the strongest emotion I felt today?",
         "What was the best part of my day?",
         "What made me smile today?",
         "Who was the most interesting person I interacted with today?",
-        "Is ther anything new that I learnt today? ",
+        "Is there anything new that I learnt today? ",
         "Did I help anyone that needed help today?",
-        "What could i have done better today?",
-        "If there is one thing i could do over today, what would it be?"
+        "What could I have done better today?",
+        "If there is one thing I could do over today, what would it be?"
 
     };
 
