@@ -22,6 +22,7 @@ public class Activity
         Console.Clear();
         Console.WriteLine($"Get ready...");
         ShowSpinner(5);
+    
  
     }
      public void DisplayEndingMessage()
