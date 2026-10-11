@@ -1,0 +1,4 @@
+0
+ SimpleGoal:run|running|10|False 
+ EternalGoal:meditate|read and ponder scripture|20 
+ CheckListGoal:not sure|try more|30|5|50|0 
